@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3-lDEIGyT"
-#define BLYNK_TEMPLATE_NAME "DARLING"
-#define BLYNK_AUTH_TOKEN "C4Aggbb60PKrfQasz_f6kBncexLpvsmi"
+#define BLYNK_TEMPLATE_ID "********"
+#define BLYNK_TEMPLATE_NAME "********"
+#define BLYNK_AUTH_TOKEN "********"
 
 
 #define BLYNK_PRINT Serial
@@ -22,8 +22,8 @@ bool right = 0;
 int Speed;
 
 char auth[] = BLYNK_AUTH_TOKEN; 
-char ssid[] = "hey"; 
-char pass[] = "1234567890"; 
+char ssid[] = "********"; 
+char pass[] = "********"; 
 
 
 void setup() {
